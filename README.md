@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Not given](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-challenge-Bkf7GS9G9)
 - Live Site URL: [Live](https://ethenpage.github.io/nft-preview-card-component/)
 
 ## My process
