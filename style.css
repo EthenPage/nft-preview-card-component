@@ -129,8 +129,9 @@ a:hover{
 }
 
 
-hr{
-    color: var(--line);
+.line{
+    background-color: var(--line);
+    padding: 1px 0;
 }
 
 .author{

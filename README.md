@@ -14,6 +14,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+- [Issue Found](#issue)
 - [Author](#author)
 - [Date](#date)
 
@@ -36,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Not given](https://your-solution-url.com)
+- Live Site URL: [Live](https://ethenpage.github.io/nft-preview-card-component/)
 
 ## My process
 
@@ -57,6 +58,20 @@ Users should be able to:
 ### Continued development
 
 - Hover Animation.
+
+## Issue
+
+- `<hr>` tag with color is not working in chrome but in firefox. Use the following instead of `<hr>`:
+
+```html
+<div class="line"></div>
+```
+```css
+.line{
+    background-color: var(--line);
+    padding: 1px 0;
+}
+```
 
 ## Author
 
